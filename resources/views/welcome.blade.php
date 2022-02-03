@@ -16,9 +16,9 @@
 <body class="antialiased">
     <div class="d-flex flex-row justify-content-center align-items-center">
         <div class="row">
-            <!-- <div class="col-md-12" id="app">
+            <div class="col-md-12" id="app">
                 <Directory />
-            </div> -->
+            </div>
         </div>
     </div>
 
